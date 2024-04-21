@@ -14,6 +14,7 @@
 		4B2228E32BD4A58B006ACBD8 /* remarquesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B2228E22BD4A58B006ACBD8 /* remarquesTests.swift */; };
 		4B2228ED2BD4A58B006ACBD8 /* remarquesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B2228EC2BD4A58B006ACBD8 /* remarquesUITests.swift */; };
 		4B2228EF2BD4A58B006ACBD8 /* remarquesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B2228EE2BD4A58B006ACBD8 /* remarquesUITestsLaunchTests.swift */; };
+		4B2228FE2BD4B8C7006ACBD8 /* NavbarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B2228FD2BD4B8C7006ACBD8 /* NavbarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		4B2228E82BD4A58B006ACBD8 /* remarquesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = remarquesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B2228EC2BD4A58B006ACBD8 /* remarquesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = remarquesUITests.swift; sourceTree = "<group>"; };
 		4B2228EE2BD4A58B006ACBD8 /* remarquesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = remarquesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4B2228FD2BD4B8C7006ACBD8 /* NavbarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavbarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				4B2228D02BD4A58A006ACBD8 /* remarquesApp.swift */,
 				4B2228D22BD4A58A006ACBD8 /* ContentView.swift */,
+				4B2228FD2BD4B8C7006ACBD8 /* NavbarView.swift */,
 				4B2228D42BD4A58B006ACBD8 /* Assets.xcassets */,
 				4B2228D92BD4A58B006ACBD8 /* remarques.entitlements */,
 				4B2228D62BD4A58B006ACBD8 /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				4B2228D32BD4A58A006ACBD8 /* ContentView.swift in Sources */,
 				4B2228D12BD4A58A006ACBD8 /* remarquesApp.swift in Sources */,
+				4B2228FE2BD4B8C7006ACBD8 /* NavbarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
